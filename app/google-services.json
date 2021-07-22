@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1075281241756",
+    "project_id": "loja-virtual-1c29f",
+    "storage_bucket": "loja-virtual-1c29f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075281241756:android:a92db150a1d099494faf59",
+        "android_client_info": {
+          "package_name": "com.psobrinho.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075281241756-8drv0j2uerbj2e1v465ape0b1h378pa2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psobrinho.lojavirtual",
+            "certificate_hash": "89c30f853590b20ed2f85443d1a241c2c5ac66a3"
+          }
+        },
+        {
+          "client_id": "1075281241756-ajnerr40a4k32legdk47fgko69du8e94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGgUmcB1MsOO-8R05G_aPKVM3I_gP-s9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075281241756-ajnerr40a4k32legdk47fgko69du8e94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
